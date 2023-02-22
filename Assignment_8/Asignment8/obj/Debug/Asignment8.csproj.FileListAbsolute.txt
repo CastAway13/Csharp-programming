@@ -1,0 +1,11 @@
+C:\Users\thien\source\repos\Asignment8\Asignment8\bin\Debug\Asignment8.exe.config
+C:\Users\thien\source\repos\Asignment8\Asignment8\bin\Debug\Asignment8.exe
+C:\Users\thien\source\repos\Asignment8\Asignment8\bin\Debug\Asignment8.pdb
+C:\Users\thien\source\repos\Asignment8\Asignment8\obj\Debug\Asignment8.csproj.AssemblyReference.cache
+C:\Users\thien\source\repos\Asignment8\Asignment8\obj\Debug\Asignment8.MainForm.resources
+C:\Users\thien\source\repos\Asignment8\Asignment8\obj\Debug\Asignment8.Properties.Resources.resources
+C:\Users\thien\source\repos\Asignment8\Asignment8\obj\Debug\Asignment8.csproj.GenerateResource.cache
+C:\Users\thien\source\repos\Asignment8\Asignment8\obj\Debug\Asignment8.csproj.CoreCompileInputs.cache
+C:\Users\thien\source\repos\Asignment8\Asignment8\obj\Debug\Asignment8.exe
+C:\Users\thien\source\repos\Asignment8\Asignment8\obj\Debug\Asignment8.pdb
+C:\Users\thien\source\repos\Asignment8\Asignment8\obj\Debug\Asignment8.Summary.resources

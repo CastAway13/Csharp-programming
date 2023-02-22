@@ -1,0 +1,6 @@
+C:\Users\thien\source\repos\Asignment7\Example_39\bin\Debug\Example_39.exe.config
+C:\Users\thien\source\repos\Asignment7\Example_39\bin\Debug\Example_39.exe
+C:\Users\thien\source\repos\Asignment7\Example_39\bin\Debug\Example_39.pdb
+C:\Users\thien\source\repos\Asignment7\Example_39\obj\Debug\Example_39.csproj.CoreCompileInputs.cache
+C:\Users\thien\source\repos\Asignment7\Example_39\obj\Debug\Example_39.exe
+C:\Users\thien\source\repos\Asignment7\Example_39\obj\Debug\Example_39.pdb

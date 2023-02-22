@@ -1,0 +1,14 @@
+C:\Users\thien\source\repos\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\thien\source\repos\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\thien\source\repos\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\thien\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2_1.csproj.AssemblyReference.cache
+C:\Users\thien\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2_1.csproj.CoreCompileInputs.cache
+C:\Users\thien\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\thien\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\e1900307\source\repos\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\e1900307\source\repos\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\e1900307\source\repos\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\e1900307\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2_1.csproj.AssemblyReference.cache
+C:\Users\e1900307\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2_1.csproj.CoreCompileInputs.cache
+C:\Users\e1900307\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\e1900307\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.pdb

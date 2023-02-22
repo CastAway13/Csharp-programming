@@ -1,0 +1,10 @@
+C:\Users\thien\source\repos\Asignment7\Example_310\obj\Debug\Example_310.csproj.AssemblyReference.cache
+C:\Users\thien\source\repos\Asignment7\Example_310\obj\Debug\Example_310.csproj.CoreCompileInputs.cache
+C:\Users\thien\source\repos\Asignment7\Example_310\bin\Debug\Example_310.exe.config
+C:\Users\thien\source\repos\Asignment7\Example_310\bin\Debug\Example_310.exe
+C:\Users\thien\source\repos\Asignment7\Example_310\bin\Debug\Example_310.pdb
+C:\Users\thien\source\repos\Asignment7\Example_310\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thien\source\repos\Asignment7\Example_310\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thien\source\repos\Asignment7\Example_310\obj\Debug\Example_310.csproj.CopyComplete
+C:\Users\thien\source\repos\Asignment7\Example_310\obj\Debug\Example_310.exe
+C:\Users\thien\source\repos\Asignment7\Example_310\obj\Debug\Example_310.pdb

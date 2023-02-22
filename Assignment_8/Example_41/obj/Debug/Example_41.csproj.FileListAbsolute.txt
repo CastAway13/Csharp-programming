@@ -1,0 +1,7 @@
+C:\Users\thien\source\repos\Asignment8\Example_41\bin\Debug\Example_41.exe.config
+C:\Users\thien\source\repos\Asignment8\Example_41\bin\Debug\Example_41.exe
+C:\Users\thien\source\repos\Asignment8\Example_41\bin\Debug\Example_41.pdb
+C:\Users\thien\source\repos\Asignment8\Example_41\obj\Debug\Example_41.csproj.AssemblyReference.cache
+C:\Users\thien\source\repos\Asignment8\Example_41\obj\Debug\Example_41.csproj.CoreCompileInputs.cache
+C:\Users\thien\source\repos\Asignment8\Example_41\obj\Debug\Example_41.exe
+C:\Users\thien\source\repos\Asignment8\Example_41\obj\Debug\Example_41.pdb

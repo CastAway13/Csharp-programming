@@ -1,0 +1,7 @@
+C:\Users\thien\source\repos\Asignment7\Asignment7\bin\Debug\Asignment7.exe.config
+C:\Users\thien\source\repos\Asignment7\Asignment7\bin\Debug\Asignment7.exe
+C:\Users\thien\source\repos\Asignment7\Asignment7\bin\Debug\Asignment7.pdb
+C:\Users\thien\source\repos\Asignment7\Asignment7\obj\Debug\Asignment7.csproj.AssemblyReference.cache
+C:\Users\thien\source\repos\Asignment7\Asignment7\obj\Debug\Asignment7.csproj.CoreCompileInputs.cache
+C:\Users\thien\source\repos\Asignment7\Asignment7\obj\Debug\Asignment7.exe
+C:\Users\thien\source\repos\Asignment7\Asignment7\obj\Debug\Asignment7.pdb

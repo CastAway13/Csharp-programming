@@ -1,0 +1,7 @@
+C:\Users\thien\source\repos\Assignment_4\Assignment_4\bin\Debug\Assignment_4.exe.config
+C:\Users\thien\source\repos\Assignment_4\Assignment_4\bin\Debug\Assignment_4.exe
+C:\Users\thien\source\repos\Assignment_4\Assignment_4\bin\Debug\Assignment_4.pdb
+C:\Users\thien\source\repos\Assignment_4\Assignment_4\obj\Debug\Assignment_4.csproj.AssemblyReference.cache
+C:\Users\thien\source\repos\Assignment_4\Assignment_4\obj\Debug\Assignment_4.csproj.CoreCompileInputs.cache
+C:\Users\thien\source\repos\Assignment_4\Assignment_4\obj\Debug\Assignment_4.exe
+C:\Users\thien\source\repos\Assignment_4\Assignment_4\obj\Debug\Assignment_4.pdb
